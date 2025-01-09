@@ -55,7 +55,8 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 [Yannic Kilcher Paper Explanations](https://www.youtube.com/@YannicKilcher)  
 [Noam Brown (o1 founder) on Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)  
 [Stanford: Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)  
-[Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)
+[GPT2 in an Excel Spreadsheet](https://www.youtube.com/watch?v=NamKKerrlnQ) (see also [JavaScript Version](https://www.youtube.com/watch?v=iGKUyTk9M0))  
+[Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation) 
 
 **Helpful Websites:**  
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/) \- courses for building AI products  
