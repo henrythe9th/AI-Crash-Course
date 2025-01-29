@@ -59,7 +59,8 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [Yannic Kilcher Paper Explanations](https://www.youtube.com/@YannicKilcher)  
 [Noam Brown (o1 founder) on Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)  
 [Stanford: Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)  
-[Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)
+[Spreadsheets-are-all-you-need (GPT2 in a Spreadsheet)](https://spreadsheets-are-all-you-need.ai): [Excel Video](https://www.youtube.com/watch?v=NamKKerrlnQ) [JavaScript Video](https://www.youtube.com/watch?v=siGKUyTk9M0)  
+[Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation) 
 
 **Helpful Websites:**  
 [History of Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file) \- summary timeline of deeplearning with major breakthroughs and key concepts  
