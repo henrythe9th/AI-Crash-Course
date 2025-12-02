@@ -61,6 +61,9 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [Foundations of LLMs](https://arxiv.org/pdf/2501.09223)  
 [Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)
 
+**Beginner-friendly:**  
+[Build a Tiny LLM from Scratch by AlgoMonster](https://algo.monster/courses/llm/llm_course_introduction) - learn transformer by building one in browser
+
 **Helpful Websites:**  
 [History of Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file) \- summary timeline of deeplearning with major breakthroughs and key concepts  
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/) \- courses for building AI products  
