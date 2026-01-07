@@ -35,6 +35,7 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050) (Process \> Outcome) \- 2023  
 [**ARC-Prize**\*](https://arxiv.org/pdf/2412.04604) (Latest methods for solving ARC-AGI problems) \- 2024  
 [**DeepSeek R1**\*](https://arxiv.org/pdf/2501.12948v1) (Building OSS o1-level reasoning model with pure RL, no SFT, no RM) \- 2025
+[**Recursive Language Models**\*](https://arxiv.org/pdf/2512.24601v1) (Simple REPL + basic tools → models emergently learn adaptive strategies without explicit prompting) \- 2026
 
 **Applications:**  
 [Toolformer](https://arxiv.org/pdf/2302.04761) (LLMs to use tools) \- 2023  
