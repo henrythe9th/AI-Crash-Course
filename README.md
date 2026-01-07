@@ -34,8 +34,8 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [ReACT](https://arxiv.org/pdf/2210.03629) (Generate reasoning traces and task-specific actions in interleaved manner) \- 2022  
 [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050) (Process \> Outcome) \- 2023  
 [**ARC-Prize**\*](https://arxiv.org/pdf/2412.04604) (Latest methods for solving ARC-AGI problems) \- 2024  
-[**DeepSeek R1**\*](https://arxiv.org/pdf/2501.12948v1) (Building OSS o1-level reasoning model with pure RL, no SFT, no RM) \- 2025
-[**Recursive Language Models**\*](https://arxiv.org/pdf/2512.24601v1) (Simple REPL + basic tools → models emergently learn adaptive strategies without explicit prompting) \- 2026
+[**DeepSeek R1**\*](https://arxiv.org/pdf/2501.12948v1) (Building OSS o1-level reasoning model with pure RL, no SFT, no RM) \- 2025  
+[Recursive Language Models](https://arxiv.org/pdf/2512.24601v1) (Simple REPL + basic tools → models emergently learn adaptive strategies without explicit prompting) \- 2026  
 
 **Applications:**  
 [Toolformer](https://arxiv.org/pdf/2302.04761) (LLMs to use tools) \- 2023  
@@ -54,7 +54,8 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 
 **Videos/Lectures:**  
 [3Blue1Brown on Foundational Math/Concepts](https://www.youtube.com/@3blue1brown)  
-[Build a Large Language Model (from Scratch) \#1 Bestseller](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167)  
+[Build a Large Language Model (from Scratch) \#1 Bestseller](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167)
+[Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
 [Andrej Kaparthy: Zero to Hero Series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)  
 [Yannic Kilcher Paper Explanations](https://www.youtube.com/@YannicKilcher)  
 [Noam Brown (o1 founder) on Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)  
