@@ -14,7 +14,8 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 
 [LLM Survey](https://arxiv.org/pdf/2402.06196v2) \- 2024  
 [Agent Survey](https://arxiv.org/pdf/2308.11432) \- 2023  
-[Prompt Engineering Survey](https://arxiv.org/pdf/2406.06608) \- 2024
+[Prompt Engineering Survey](https://arxiv.org/pdf/2406.06608) \- 2024  
+[Context Engineering Survey](https://arxiv.org/abs/2507.13334) \- 2025
 
 **AI Papers:** (prioritize ones with star \*)
 
