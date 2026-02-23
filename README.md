@@ -53,7 +53,7 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 
 <hr />
 
-**Videos/Lectures:**  
+**Videos/Lectures/Courses:**  
 [3Blue1Brown on Foundational Math/Concepts](https://www.youtube.com/@3blue1brown)  
 [Build a Large Language Model (from Scratch) \#1 Bestseller](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167)
 [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
@@ -62,7 +62,8 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [Noam Brown (o1 founder) on Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)  
 [Stanford: Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)  
 [Foundations of LLMs](https://arxiv.org/pdf/2501.09223)  
-[Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)
+[Why You're Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)  
+[Build a Tiny LLM from Scratch by AlgoMonster](https://algo.monster/courses/llm/llm_course_introduction) - learn transformer by building one in browser (beginner-friendly)  
 
 **Helpful Websites:**  
 [History of Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file) \- summary timeline of deeplearning with major breakthroughs and key concepts  
